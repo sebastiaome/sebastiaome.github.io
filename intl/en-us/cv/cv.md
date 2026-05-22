@@ -2,8 +2,8 @@
 - Email: [me@sebastiao.me](mailto:me@sebastiao.me)
 - Location: São Paulo, SP, Brazil
 - Website: [sebastiao.me](https://sebastiao.me/)
-- LinkedIn: [sebasrib](https://linkedin.com/in/sebasrib)
-- GitHub: [sebasrib](https://github.com/sebasrib)
+- LinkedIn: [sebastiaome](https://linkedin.com/in/sebastiaome)
+- GitHub: [sebastiaome](https://github.com/sebastiaome)
 
 
 # Summary
